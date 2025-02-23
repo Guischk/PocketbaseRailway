@@ -28,6 +28,8 @@ docker run -p 8090:8090 pocketbase-railway
 
 ## Deployment on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/Ejkef1?referralCode=3Ri9K9)
+
 1. Connect your Railway project to this repository.
 2. Railway will detect the Dockerfile and build the image automatically.
 3. Configure environment variables in Railway as needed.
